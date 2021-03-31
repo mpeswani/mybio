@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @finroly
-- 👀 I’m interested in making App for finance.
+- 👀 I’m interested in making Apps for finance and e-commerce.
 - 🌱 I’m currently learning flutter, Python Frameworks.
 - 💞️ I’m looking to collaborate on marketing my apps on Play Store and App Store. If someone is intereseted please ping me.
 - 📫 How to reach mykhata.app@gmail.com
